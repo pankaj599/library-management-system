@@ -1,0 +1,24 @@
+body
+{
+    font-family: 'Ubuntu', sans-serif;
+}
+.data{
+    margin-top:50px;
+     background-color: cornsilk;
+}
+.introduction
+{
+    margin-top:50px;
+    background-color: floralwhite;
+    text-align: center;
+}
+.intro_sub
+{
+    font-size: medium ;
+}
+.login
+{
+    margin-top:50px;
+    background-color: azure;
+    /*text-align: center;*/
+}
